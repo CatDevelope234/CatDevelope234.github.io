@@ -2,7 +2,3 @@
 
 # This is Jarvis
 
-```HTML
-<!DOCTYPE HTML>
-<!HTML>
-```
